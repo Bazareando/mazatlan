@@ -27,12 +27,6 @@
     "maps": "https://maps.app.goo.gl/Y8ohXftb7sS6hFNa8"
   },
   {
-    "titulo": "Expo Venados",
-    "fecha": "2025-07-26",
-    "ubicacion": "Mazatlán",
-    "maps": "https://maps.app.goo.gl/bWL6vxLkiD8ptsGL6"
-  },
-  {
     "titulo": "Rebella",
     "fecha": "2025-07-27",
     "ubicacion": "Parque Ciudades Hermanas",
@@ -57,18 +51,7 @@
     "imagen": "img/logosB/cabo carena.jpg",
     "descripcion": "Te esperamos en nuestra próxima edición de Cabo Market con lo mejor de emprendedores locales.",
     "maps": "https://maps.app.goo.gl/tMXbS2MvCxqfgTyo6"
-  },  
-  {
-    "titulo": "Mercadito",
-    "fecha": "2025-08-10",
-    "ubicacion": "Mazatlán",
-    "maps": "https://maps.app.goo.gl/bWL6vxLkiD8ptsGL6"
-  },
-  {
-    "titulo": "Star Market",
-    "fecha": "2025-08-31",
-    "ubicacion": "Mazatlán",
-    "maps": "https://maps.app.goo.gl/bWL6vxLkiD8ptsGL6"
   }
+  
 ]
 
