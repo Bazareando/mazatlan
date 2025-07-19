@@ -4,6 +4,7 @@
     "fecha": "2025-07-19",
     "ubicacion": "Parque Ciudades Hermanas",
     "descripcion": "Apoyo a emprendimientos y consumo local",
+    "horario": "05:00 pm a 10:00 pm",
     "imagen": "img/logosB/Mercado rosa.jpg",
     "maps": "https://maps.app.goo.gl/Y8ohXftb7sS6hFNa8",
     "categoria": "rosa"
@@ -13,6 +14,7 @@
     "fecha": "2025-07-19",
     "ubicacion": "Point Galeria",
     "descripcion": "Ropa, accesorios, artesanias, trueques y mucho mas...",
+    "horario": "05:00 pm a 8:00 pm",
     "imagen": "img/logosB/tilichero.jpg",
     "maps": "https://maps.app.goo.gl/iRhavj21AJy3tDJv6"
   },
