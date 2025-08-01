@@ -13,6 +13,7 @@ body {
   color: #674c47;
   background-image: url('img/texture-concrete-2.jpg');
   background-size: cover;
+  flex-wrap: wrap;
   background-repeat: no-repeat;
   background-attachment: fixed; 
 }
