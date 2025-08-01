@@ -1,57 +1,92 @@
 [
   {
     "titulo": "Mercado rosa",
-    "fecha": "2025-07-19",
-    "ubicacion": "Parque Ciudades Hermanas",
-    "descripcion": "Apoyo a emprendimientos y consumo local",
-    "horario": "05:00 pm a 10:00 pm",
-    "imagen": "img/logosB/Mercado rosa.jpg",
-    "maps": "https://maps.app.goo.gl/Y8ohXftb7sS6hFNa8",
-    "categoria": "rosa"
-  },
-  {
-    "titulo": "Tilichero bazar",
-    "fecha": "2025-07-19",
-    "ubicacion": "Point Galeria",
-    "descripcion": "Ropa, accesorios, artesanias, trueques y mucho mas...",
-    "horario": "05:00 pm a 8:00 pm",
-    "imagen": "img/logosB/tilichero.jpg",
-    "maps": "https://maps.app.goo.gl/iRhavj21AJy3tDJv6"
-  },
-  {
-    "titulo": "Mas bazar",
-    "fecha": "2025-07-20",
-    "ubicacion": "Parque Ciudades Hermanas",
-    "descripcion": "Cine-Food Zone-Zona kids",
-    "imagen": "img/logosB/Mas bazar.jpg",
-    "maps": "https://maps.app.goo.gl/Y8ohXftb7sS6hFNa8"
-  },
-  {
-    "titulo": "Rebella",
-    "fecha": "2025-07-27",
-    "ubicacion": "Parque Ciudades Hermanas",
-    "descripcion": "Edición de Aniversario",
-    "horario": "05:00 pm a 10:00 pm",
-    "imagen": "img/logosB/Rebella.jpg",
-    "maps": "https://maps.app.goo.gl/Y8ohXftb7sS6hFNa8"
-  },
-  {
-    "titulo": "Mercado rosa",
     "fecha": "2025-08-03",
+    "horario": "05:00 pm a 10:00 pm",
     "ubicacion": "Parque Ciudades Hermanas",
     "descripcion": "Apoyo a emprendimientos y consumo local",
     "imagen": "img/logosB/Mercado rosa.jpg",
+    "pagina":"linktr.ee/mercadorosa.mx",
     "maps": "https://maps.app.goo.gl/Y8ohXftb7sS6hFNa8",
     "categoria": "rosa"
   },
     {
     "titulo": "Cabo Market",
     "fecha": "2025-08-03",
+    "horario": "05:00 pm a 10:00 pm",
     "ubicacion": "Plaza Cabo carena",
     "imagen": "img/logosB/cabo carena.jpg",
     "descripcion": "Te esperamos en nuestra próxima edición de Cabo Market con lo mejor de emprendedores locales.",
+    "pagina":"instagram.com/cabocarena",
     "maps": "https://maps.app.goo.gl/tMXbS2MvCxqfgTyo6"
+  },
+  {
+    "titulo": "Kermes con causa",
+    "fecha": "2025-08-03",
+    "horario": "08:00 am a 01:00 pm",
+    "ubicacion": "Rio Yaqui #338 Col.insurgentes",
+    "descripcion": "En apoyo a Alma Ruth Ascencio Arellano",
+    "imagen": "img/logosB/kermes.jpg",
+    "maps": "https://maps.app.goo.gl/LgYVmxTkxEeZxWU87"
+  },
+  {
+    "titulo": "Del puerto",
+    "fecha": "2025-08-09",
+    "ubicacion": "Shekinah",
+    "descripcion": "Shekinah se llena de sabor, música y cheve artesanal en la Fiesta Cervecera del Puerto 🎉",
+    "imagen": "img/logosB/Puerto.png",
+    "pagina":"https://www.instagram.com/shekinah_beachclub?utm_source=ig_web_button_share_sheet&igsh=MTZiaDBsOGtjMzc0OQ==",
+    "maps": "https://maps.app.goo.gl/momChL67ZxnLcx7p7"
+  },
+  {
+    "titulo": "Mercadito",
+    "fecha": "2025-08-10",
+    "ubicacion": "",
+    "descripcion": "",
+    "imagen": "img/logosB/",
+    "pagina":"",
+    "maps": ""
+  },
+  {
+    "titulo": "Mas bazar",
+    "fecha": "2025-08-17",
+    "horario": "05:00 pm a 10:00 pm",
+    "ubicacion": "Parque Ciudades Hermanas",
+    "descripcion": "¡Por qué tú cómo emprendedor nos importas!",
+    "imagen": "img/logosB/Mas bazar.jpg",
+    "pagina":"https://www.instagram.com/_mas_bazar_?utm_source=ig_web_button_share_sheet&igsh=MXZjbGpmY2Uxa3l0bA==",
+    "maps": "https://maps.app.goo.gl/Y8ohXftb7sS6hFNa8"
+    
+  },
+  {
+    "titulo": "The little market",
+    "fecha": "2025-08-30",
+    "horario": "04:00 pm a 09:00 pm",
+    "ubicacion": "Coming soon…",
+    "descripcion": "Coming soon…",
+    "imagen": "img/logosB/tlm.jpg",
+    "pagina":"https://www.instagram.com/thelittlemarket.mzt/?utm_source=ig_web_button_share_sheet",
+    "maps": ""
+  },
+  {
+    "titulo": "Star Market",
+    "fecha": "2025-08-31",
+    "ubicacion": "",
+    "descripcion": "",
+    "imagen": "img/logosB/",
+    "pagina":"",
+    "maps": ""
+  },
+  {
+    "titulo": "Mercado rosa",
+    "fecha": "2025-09-07",
+    "horario": "05:00 pm a 10:00 pm",
+    "ubicacion": "Parque Ciudades Hermanas",
+    "descripcion": "Apoyo a emprendimientos y consumo local",
+    "imagen": "img/logosB/Mercado rosa.jpg",
+    "pagina":"linktr.ee/mercadorosa.mx",
+    "maps": "https://maps.app.goo.gl/Y8ohXftb7sS6hFNa8",
+    "categoria": "rosa"
   }
-  
 ]
 

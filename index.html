@@ -24,9 +24,7 @@
   <div id="inicio" class="hero">
 <nav>
       <ul class="nav-links">
-        <li><a href="index.html#inicio">Inicio</a></li>
-
-        <li><a href="anunciate.html">Anúnciate</a></li>
+        <li><a href="patrocina.html">Patrocina</a></li>
       </ul>
     </nav>
   </div>
@@ -34,19 +32,92 @@
   
 
 <main>
+<!-- EVENTOS-->
 <section id="eventos">
   <h2>Próximos eventos</h2>
-  <div id="eventos-lista" class="eventos-grid"></div>
-</section>
+  <div id="eventos-lista" class="eventos-grid"></div></section>
+<section id="lista-eventos" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 p-4"></section>
 <script src="js/eventos.js"></script>
 
     </main>
+<!-- PIEDE PAGINA-->
+<footer>
+  <p>Síguenos en Instagram: 
+    <a href="https://www.instagram.com/bazareando_mzt" target="_blank">@bazareando_mzt</a>
+  </p>
+  <p>© 2025 Bazareando. Hecho con ❤️ en Mazatlán.</p>
+</footer>
 
-    <footer>
-        <p>Síguenos en Instagram: 
-            <a href="https://instagram.com/el_indesigner" target="_blank">@el_indesigner</a>
-        </p>
-        <p>© 2025 Bazareando. Hecho con ❤️ en Mazatlán.</p>
-    </footer>
 </body>
+
+<!-- POP-UP -->
+<div id="popup" class="popup" onclick="cerrarSiClickFuera(event)">
+  <div class="popup-contenido">
+    <button class="cerrar" onclick="cerrarPopup()">&times;</button>
+    <h3>✨ ¡Gracias por visitarnos!</h3>
+    <p>Estamos trabajando en mejorar tu experiencia. <br>
+    Cualquier consejo o pregunta, escríbenos a <strong><a href="https://www.instagram.com/bazareando_mzt" target="_blank">@bazareando_mzt</a></strong>.</p>
+    
+  </div>
+</div>
+
+<!-- ESTILOS -->
+<style>
+.popup {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100vw; height: 100vh;
+  background-color: rgba(0, 0, 0, 0.4);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  backdrop-filter: blur(3px);
+}
+
+.popup-contenido {
+  background-color: #fff8f0;
+  color: #5e3d2c;
+  font-family: 'Georgia', serif;
+  padding: 2rem;
+  padding-top: 1rem;
+  border: 2px solid #c8a57b;
+  border-radius: 16px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+  width: 90%;
+  text-align: center;
+  position: relative;
+}
+
+.cerrar {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.75rem;
+  font-size: 1.5rem;
+  border: none;
+  background: none;
+  color: #a66a2f;
+  cursor: pointer;
+}
+</style>
+
+<!-- SCRIPT -->
+<script>
+window.onload = () => {
+  document.getElementById("popup").style.display = "flex";
+};
+
+function cerrarPopup() {
+  document.getElementById("popup").style.display = "none";
+}
+
+function cerrarSiClickFuera(event) {
+  const contenido = document.querySelector(".popup-contenido");
+  if (!contenido.contains(event.target)) {
+    cerrarPopup();
+  }
+}
+</script>
+
 </html>
